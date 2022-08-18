@@ -35,4 +35,4 @@ class KnownValues(unittest.TestCase):
             self.assertEqual(test_case['case3'], case3)
 
 if __name__ == '__main__':
-    unittest.main(verbosity=2)
+    unittest.main()
